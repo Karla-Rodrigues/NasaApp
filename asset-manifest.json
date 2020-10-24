@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NasaApp/static/css/main.ffba0750.chunk.css",
+    "main.js": "/NasaApp/static/js/main.cfd73f94.chunk.js",
+    "main.js.map": "/NasaApp/static/js/main.cfd73f94.chunk.js.map",
+    "runtime-main.js": "/NasaApp/static/js/runtime-main.d6ffe0eb.js",
+    "runtime-main.js.map": "/NasaApp/static/js/runtime-main.d6ffe0eb.js.map",
+    "static/css/2.f65acde2.chunk.css": "/NasaApp/static/css/2.f65acde2.chunk.css",
+    "static/js/2.85a31552.chunk.js": "/NasaApp/static/js/2.85a31552.chunk.js",
+    "static/js/2.85a31552.chunk.js.map": "/NasaApp/static/js/2.85a31552.chunk.js.map",
+    "index.html": "/NasaApp/index.html",
+    "precache-manifest.cb5cee20a653031ec0439cf220c2dc8b.js": "/NasaApp/precache-manifest.cb5cee20a653031ec0439cf220c2dc8b.js",
+    "service-worker.js": "/NasaApp/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/NasaApp/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.ffba0750.chunk.css.map": "/NasaApp/static/css/main.ffba0750.chunk.css.map",
+    "static/js/2.85a31552.chunk.js.LICENSE.txt": "/NasaApp/static/js/2.85a31552.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/NasaApp/static/media/background.8634ee0b.jpg",
+    "static/media/logo.png": "/NasaApp/static/media/logo.9ffb3c7d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6ffe0eb.js",
+    "static/css/2.f65acde2.chunk.css",
+    "static/js/2.85a31552.chunk.js",
+    "static/css/main.ffba0750.chunk.css",
+    "static/js/main.cfd73f94.chunk.js"
+  ]
+}
